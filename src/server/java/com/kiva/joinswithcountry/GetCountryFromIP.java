@@ -74,6 +74,7 @@ public class GetCountryFromIP {
                     continue;
 
                 countryFound = line.substring(countryNameIdx + jsonKeyForCountryName.length(), line.length() - 2);
+                break;
             }
         } catch(Exception e){
         }
