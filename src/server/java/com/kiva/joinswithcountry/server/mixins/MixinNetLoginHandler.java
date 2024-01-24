@@ -1,4 +1,4 @@
-package com.kiva.server.mixins;
+package com.kiva.joinswithcountry.server.mixins;
 
 import com.fox2code.foxloader.loader.ServerMod;
 import com.fox2code.foxloader.network.ChatColors;
